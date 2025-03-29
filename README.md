@@ -111,7 +111,7 @@ Start the frontend server:
 ## Screenshots
 
 ### Login Page  
-![Login Page](https://github.com/udham8306/Real-Time-Chat-Platform/issues/1#issue-1234567890)
+![Image](https://github.com/user-attachments/assets/c7890ea4-804e-4a23-82ff-8fdde2bd3726)
 
 ### Chat Interface  
 ![Chat Interface](https://github.com/udham8306/Real-Time-Chat-Platform/issues/2#issue-1234567890)
