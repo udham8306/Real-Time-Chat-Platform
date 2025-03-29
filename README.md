@@ -112,11 +112,12 @@ Start the frontend server:
 
 ### Login Page  
 ![Image](https://github.com/user-attachments/assets/c7890ea4-804e-4a23-82ff-8fdde2bd3726)
-
 ### Chat Interface  
 ![Image](https://github.com/user-attachments/assets/c51daeac-749c-4943-b072-b01ffb177d53)
 ### contacts
 ![Image](https://github.com/user-attachments/assets/05240ac9-95f1-49f7-a088-58fa39e35978)
+### contact search
+![Image](https://github.com/user-attachments/assets/20b8adc1-a91b-4411-ae10-6147f72552b4)
 
 ## Links for Technology Installation/Documentation:
 
